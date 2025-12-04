@@ -1,58 +1,72 @@
-🌐 Synaptik Auto – Repositorio Público (Demo)
-Versión demostrativa del proyecto (sin código propietario)
-<div style="background:#0a0a0a; padding:25px; border-radius:12px; text-align:center; color:white; font-size:20px; font-weight:600;"> Synaptik Auto – Transparencia, Trazabilidad y Confianza para la Postventa Automotriz </div>
-<p align="center"> <img src="https://dummyimage.com/900x200/0a0a0a/ffffff&text=Synaptik+Auto+Demo+Repository" width="80%"> </p>
-<p align="center"> <b>Plataforma SaaS para talleres mecánicos y conductores.</b><br> <i>Este repositorio es solo demostrativo; no incluye el código propietario del MVP.</i> </p>
-🧭 Descripción General
+# 🌐 Synaptik Auto – Repositorio Público (Demo)
+### Versión demostrativa del proyecto (sin código propietario)
 
-Bienvenido al repositorio público de Synaptik Auto, la plataforma diseñada para transformar la relación entre talleres y conductores a través de:
+<div style="background:#0a0a0a; padding:25px; border-radius:12px; text-align:center; color:white; font-size:20px; font-weight:600;">
+Synaptik Auto – Transparencia, Trazabilidad y Confianza para la Postventa Automotriz
+</div>
 
-🔍 Trazabilidad del servicio
+---
 
-🔧 Estandarización del flujo de trabajo
+<p align="center">
+  <img src="https://dummyimage.com/900x200/0a0a0a/ffffff&text=Synaptik+Auto+Demo+Repository" width="80%">
+</p>
 
-💬 Comunicación clara y respaldada
+---
 
-🤝 Transparencia basada en evidencia
+<p align="center">
+  <b>Plataforma SaaS para talleres mecánicos y conductores.</b><br>
+  <i>Este repositorio es solo demostrativo; no incluye el código propietario del MVP.</i>
+</p>
 
-🤖 Asistentes IA para diagnósticos, explicaciones y seguimiento
+---
 
-Este repositorio contiene solo elementos demostrativos:
+## 🧭 Descripción General
 
-Estructura del proyecto
+Bienvenido al repositorio público de **Synaptik Auto**, la plataforma diseñada para transformar la relación entre talleres y conductores a través de:
 
-Documentación técnica
+- 🔍 Trazabilidad del servicio  
+- 🔧 Estandarización del flujo de trabajo  
+- 💬 Comunicación clara y respaldada  
+- 🤝 Transparencia basada en evidencia  
+- 🤖 Asistentes IA para diagnósticos, explicaciones y seguimiento  
 
-Carpetas de referencia
+Este repositorio contiene **solo elementos demostrativos**:
 
-Diagrama de arquitectura
+- Estructura del proyecto  
+- Documentación técnica  
+- Carpetas de referencia  
+- Diagrama de arquitectura  
+- Roadmap público  
 
-Roadmap público
-
-🚫 No contiene código real, lógica interna ni credenciales.
+🚫 **No contiene código real, lógica interna ni credenciales.**  
 Ese contenido se resguarda en un repositorio privado y en el archivo ZIP adjunto al informe académico.
 
-🏗️ Arquitectura General (Demo)
+---
+
+## 🏗️ Arquitectura General (Demo)
+
+```text
 synaptik-auto-demo/
 │
 ├── backend/
-│   ├── app/                 # Estructura de referencia (sin código real)
+│   ├── app/
 │   ├── routers/
 │   ├── schemas/
 │   ├── services/
 │   └── README_backend.md
 │
 ├── frontend-b2b/
-│   └── README_b2b.md        # Documentación demostrativa
+│   └── README_b2b.md
 │
 ├── frontend-b2c/
 │   └── README_b2c.md
 │
 ├── database/
-│   └── schema-diagram.png   # Diagrama ER simplificado
+│   └── schema-diagram.png
 │
 └── docker/
-    └── docker-compose-example.yml   # Plantilla orientativa
+    └── docker-compose-example.yml
+
 
 🚀 ¿Qué es Synaptik Auto?
 <div style="background:#f3f3f3; padding:15px; border-left:6px solid #4a90e2; border-radius:6px;"> <b>Synaptik Auto</b> es una plataforma que integra gestión operativa del taller, comunicación con clientes y trazabilidad técnica, apoyada por un motor IA. </div>
