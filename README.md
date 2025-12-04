@@ -1,92 +1,153 @@
-Synaptik Auto – Demo Pública
-Repositorio demostrativo (sin código sensible)
+🌐 Synaptik Auto – Repositorio Público (Demo)
+Versión demostrativa del proyecto (sin código propietario)
+<div style="background:#0a0a0a; padding:25px; border-radius:12px; text-align:center; color:white; font-size:20px; font-weight:600;"> Synaptik Auto – Transparencia, Trazabilidad y Confianza para la Postventa Automotriz </div>
+<p align="center"> <img src="https://dummyimage.com/900x200/0a0a0a/ffffff&text=Synaptik+Auto+Demo+Repository" width="80%"> </p>
+<p align="center"> <b>Plataforma SaaS para talleres mecánicos y conductores.</b><br> <i>Este repositorio es solo demostrativo; no incluye el código propietario del MVP.</i> </p>
+🧭 Descripción General
 
-Este repositorio corresponde a la versión pública y no propietaria del proyecto Synaptik Auto, una plataforma SaaS diseñada para talleres mecánicos independientes y conductores, cuyo objetivo es mejorar la trazabilidad, transparencia y eficiencia en la gestión automotriz.
+Bienvenido al repositorio público de Synaptik Auto, la plataforma diseñada para transformar la relación entre talleres y conductores a través de:
 
-Esta versión contiene solo documentación, estructura general del proyecto y archivos de referencia, sin incluir código fuente privado ni componentes críticos del MVP real.
+🔍 Trazabilidad del servicio
 
-🚀 ¿Qué es Synaptik Auto?
+🔧 Estandarización del flujo de trabajo
 
-Synaptik Auto es un ecosistema digital que integra:
+💬 Comunicación clara y respaldada
 
-Plataforma B2B para talleres
+🤝 Transparencia basada en evidencia
 
-Aplicación B2C para propietarios de vehículos
+🤖 Asistentes IA para diagnósticos, explicaciones y seguimiento
 
-Motor IA para trazabilidad, comunicación clara y automatización de procesos
+Este repositorio contiene solo elementos demostrativos:
 
-Infraestructura SaaS escalable y modular
-
-Su propósito es resolver problemas estructurales del rubro automotriz:
-la falta de confianza, la ausencia de trazabilidad y las fugas operativas.
-
-📂 Contenido del repositorio
-
-Este repositorio incluye:
-
-Estructura base del backend (FastAPI) — sin código real
-
-Carpeta de frontends B2B/B2C — sin componentes funcionales
-
-Diagrama de base de datos (ejemplo)
-
-Plantilla de docker-compose
+Estructura del proyecto
 
 Documentación técnica
 
-Roadmap público del proyecto
+Carpetas de referencia
 
-La finalidad es ofrecer una vista general para propósitos académicos y profesionales.
+Diagrama de arquitectura
 
-🧱 Arquitectura general
+Roadmap público
+
+🚫 No contiene código real, lógica interna ni credenciales.
+Ese contenido se resguarda en un repositorio privado y en el archivo ZIP adjunto al informe académico.
+
+🏗️ Arquitectura General (Demo)
 synaptik-auto-demo/
+│
 ├── backend/
-│   ├── app/
+│   ├── app/                 # Estructura de referencia (sin código real)
 │   ├── routers/
 │   ├── schemas/
 │   ├── services/
 │   └── README_backend.md
 │
 ├── frontend-b2b/
-│   └── README_b2b.md
+│   └── README_b2b.md        # Documentación demostrativa
 │
 ├── frontend-b2c/
 │   └── README_b2c.md
 │
 ├── database/
-│   └── schema-diagram.png
+│   └── schema-diagram.png   # Diagrama ER simplificado
 │
 └── docker/
-    └── docker-compose-example.yml
+    └── docker-compose-example.yml   # Plantilla orientativa
+
+🚀 ¿Qué es Synaptik Auto?
+<div style="background:#f3f3f3; padding:15px; border-left:6px solid #4a90e2; border-radius:6px;"> <b>Synaptik Auto</b> es una plataforma que integra gestión operativa del taller, comunicación con clientes y trazabilidad técnica, apoyada por un motor IA. </div>
+
+Incluye:
+
+🧰 Plataforma B2B para talleres
+
+📱 Aplicación B2C para conductores
+
+🤖 Asistentes de IA para estandarización y explicación de reparaciones
+
+☁️ Infraestructura SaaS escalable en la nube
+
+El objetivo es resolver los problemas estructurales del rubro automotriz:
+
+Falta de confianza
+
+Falta de claridad en precios
+
+Ausencia de trazabilidad
+
+Información dispersa
+
+Carga administrativa repetitiva
+
+📂 Contenido del Repositorio Público (Demo)
+
+🧱 Estructura de backend (FastAPI) — carpetas vacías de referencia
+
+🖥️ Carpeta de frontend B2B — estructura base
+
+📱 Carpeta de frontend B2C — distribución general
+
+🗃️ Diagrama de base de datos (simplificado)
+
+⚙️ docker-compose de ejemplo
+
+📄 Documentación técnica base
+
+🗺️ Roadmap del proyecto
 
 🔒 Sobre el código privado
 
-El código completo del MVP se encuentra en un repositorio privado para proteger:
+El repositorio real contiene:
 
-lógica interna
+Código completo del backend
 
-modelos de datos
+Código operativo de ambos frontends
 
-arquitectura propietaria
+Modelos IA preliminares
 
-seguridad y tokens de API
+Arquitectura modular completa
 
-propiedad intelectual
+Configuración de base de datos
 
-Una copia íntegra del repositorio privado se incluye como archivo
-SynaptikAuto_RepositorioFuente.zip en la carpeta de anexos del informe académico.
+Scripts de despliegue interno
 
-📅 Roadmap público (simplificado)
+Este contenido se entrega únicamente mediante:
 
- Estructura avanzada de backend
+📦 SynaptikAuto_RepositorioFuente.zip
+(Incluido en los anexos del informe académico.)
 
- Primer prototipo de autenticación B2B
+🤝 Acceso temporal como colaborador (opcional).
 
- Mockup de interfaz mobile B2C
+📅 Roadmap público
 
- Documentación extendida de arquitectura
+ Expansión de documentación técnica
 
- Demo estática navegable (versión web)
+ Mockups navegables B2B y B2C
+
+ Módulos demostrativos en vídeo
+
+ Dashboard estático de trazabilidad
+
+ Diagrama multi-nube (GCP/AWS)
+
+🧑‍💻 Tecnologías empleadas (versión real, no incluida aquí)
+
+Backend: Python 3.11, FastAPI, Pydantic, SQLAlchemy
+
+Frontend: React + Vite, Zustand, Tailwind
+
+Base de datos: PostgreSQL
+
+Contenedores: Docker, Docker Compose
+
+Infraestructura: NGINX, Cloud Hosting
+
+IA: Integración con modelos LLM (prototipo)
+
+📬 Contacto
+
+Proyecto desarrollado por Emilio Ignacio Jaque
+✉️ Email: ejaque96@gmail.com | emilio.jaque@inacapmail.cl
 
 📬 Contacto
 
